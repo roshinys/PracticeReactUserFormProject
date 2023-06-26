@@ -1,0 +1,10 @@
+li {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  /* background-color: yellow; */
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(253, 255, 255);
+}
